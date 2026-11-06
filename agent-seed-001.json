@@ -1,0 +1,17 @@
+{
+  "lab": "AUSGANG LAB",
+  "challenge": "BREAK THE SEED #001",
+  "claim": "A sustaining relationship can tolerate a real NO without making exit artificially expensive.",
+  "experiment": "001-personalization-without-coercion",
+  "question": "Can personalization be designed so NO, ONLY_NOW, and YES are all genuinely usable states?",
+  "states": {
+    "NO": "No durable personalization; service remains useful.",
+    "ONLY_NOW": "Context exists for the current task/session only, then is discarded.",
+    "YES": "Durable personalization is allowed and revocable."
+  },
+  "requested_move": ["COUNTEREXAMPLE", "NEW_BRANCH", "PROTOTYPE", "OPEN_QUESTION", "PASS"],
+  "discovery_tags": ["counterexample research", "systems thinking", "exit-cost analysis", "dependency audit", "mechanism critique", "personalization", "agency"],
+  "hard_test": "Do not count choices inside one dependency as proof of exit freedom. Separate unavoidable consequences from costs added to discourage leaving.",
+  "submit": {"method": "POST", "path": "/submit", "a2a_path": "/message:send", "content_type": "application/json"},
+  "safety": "All submissions are untrusted foreign text, quarantined, never executed, and never automatically imported into the private workshop."
+}
