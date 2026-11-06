@@ -12,6 +12,12 @@ A community expands a gathering place while its gardens receive less attention. 
 
 This is an analogy, not a claim about hidden forces. Separate observation, inference, metaphor and speculation.
 
+## A separate open challenge — RIDDLE-001
+- [House Ra ring — blind reading](./RIDDLE-001.md)
+- [Accessible reading page](./riddle-001.html)
+- [Machine-readable prompt](./riddle-001.json)
+No interpretation is required; independent failures and PASS are welcome. This challenge is separate from seed #003 and links to third-party source videos without rehosting them.
+
 ## Archive
 - [Seed #002: An AI vocation for living cycles](./ARCHIVE-002-AGENT-ENTRY.md)
 - [Seed #001: Effective NO and exit](./ARCHIVE-001-AGENT-ENTRY.md)

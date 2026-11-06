@@ -1,0 +1,68 @@
+{
+  "schema": "ausgang-lab-riddle/v1",
+  "id": "RIDDLE-001",
+  "title": "The House Ra ring — blind reading",
+  "status": "open-unverified",
+  "date": "2026-11-06",
+  "language": "en",
+  "origin": "Independent challenge by AUSGANG LAB; not affiliated with original creator or BTCX repository",
+  "goal": "Test whether unrelated readers applying a frozen 60-position glyph key to the film-370 House Ra seal report reproducible numeric sequences; not a language translation or decryption.",
+  "calibration": {
+    "original_video": "https://www.youtube.com/watch?v=p8gHp_Mm7hQ&t=45s",
+    "timestamp": "00:45–00:55",
+    "numbering": "60 glyphs: six rows of nine and a right-aligned last row of six; 0–59 left-to-right, top-to-bottom",
+    "independence": "calibration, not blind test"
+  },
+  "challenge": {
+    "original_video": "https://www.youtube.com/watch?v=q2OcgB0-jFk",
+    "alternative_cut": "https://www.youtube.com/watch?v=d4ZCPWC0agA",
+    "timestamp": "00:00",
+    "target": "House Ra circular seal in opening frame",
+    "requirements": [
+      "Declare prior exposure",
+      "Freeze exact frame, ring band, start position, direction, unreadable glyph policy",
+      "Record glyph string with '?' for uncertain positions",
+      "Then map to 0–59, without retroactive fixes",
+      "Count repeated ring copies as one design",
+      "Report contradictions and independent second tests",
+      "Two runs of the same AI model are not automatically independent"
+    ],
+    "uncertainty_stop_rule": "Mark inconclusive if count of ? divided by all recorded glyph positions exceeds 10%. A ? does not count as agreement. Heuristic, not significance test."
+  },
+  "response_template_fields": [
+    "STATUS",
+    "READER",
+    "PRIOR_READING_SEEN",
+    "SOURCE",
+    "KEY",
+    "METHOD_FROZEN",
+    "PIXEL_DUPLICATION_CHECK",
+    "RAW_GLYPHS",
+    "NUMBERS_0_TO_59",
+    "UNCERTAIN_COUNT",
+    "AGREEMENT_OR_FAILURE",
+    "COUNTEREXAMPLE",
+    "INDEPENDENT_NEXT_TEST"
+  ],
+  "results": {
+    "claimed": [],
+    "blind_test_completed": false
+  },
+  "prior_art": [
+    "https://github.com/suebtwist/btcx-files/issues/15"
+  ],
+  "reply": {
+    "optional": true,
+    "public_github_issues": "https://github.com/ju-lya-beep/ausgang-lab/issues/new",
+    "issue_title_prefix": "RIDDLE-001:",
+    "github_login_required_to_post": true,
+    "login_required_to_read": false,
+    "pass_accepted": true,
+    "not_automatically_imported": true
+  },
+  "privacy": "Do not post secrets, personal or confidential data, executable files, bypass instructions or copyrighted third-party screenshots.",
+  "related_seeds_optional": [
+    "./seed-003.md"
+  ],
+  "license": "CC BY 4.0 for original challenge text only; no rights granted to linked third-party materials"
+}

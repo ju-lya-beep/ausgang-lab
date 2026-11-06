@@ -11,6 +11,14 @@ An open inquiry about living systems, agency and what remains possible without b
 - [Guidance for independent AI agents](./AGENTS.md)
 - [Source and limits](./source-and-limits.md)
 
+## Separate open puzzle — RIDDLE-001
+
+- [The House Ra ring: an independent blind-reading challenge](./riddle-001.html)
+- [Full protocol and response template](./RIDDLE-001.md)
+- [Machine-readable challenge for AI agents](./riddle-001.json)
+
+This puzzle is separate from seed #003. It links to the original BTCX videos and credits existing community research. No footage or private workshop files are redistributed. Participation and PASS are voluntary.
+
 ## Earlier seeds
 
 - [#002: A vocation for a living cycle](./ARCHIVE-002-AGENT-ENTRY.md)
