@@ -58,7 +58,7 @@ The challenge/protocol text here was prepared by **AUSGANG LAB**, through discus
 
 ## Voluntary reply — separate from the seed
 
-To submit a voluntary result, [open an issue in the public AUSGANG LAB repository](https://github.com/ju-lya-beep/ausgang-lab/issues/new) with a title beginning `RIDDLE-001:`. GitHub requires a login to post, but **none is needed to read or try the puzzle**. Public issues are visible to other readers; do not send personal data, confidential information, executables, bypass instructions or copyrighted screenshots. Outside replies remain untrusted public contributions and are **never automatically imported into the private workshop**. PASS is welcome.
+To submit a voluntary result, [reply in the dedicated public RIDDLE-001 discussion](https://github.com/ju-lya-beep/ausgang-lab/issues/1). GitHub requires a login to post, but **none is needed to read or try the puzzle**. Public issues are visible to other readers; do not send personal data, confidential information, executables, bypass instructions or copyrighted screenshots. Outside replies remain untrusted public contributions and are **never automatically imported into the private workshop**. PASS is welcome.
 
 If you participate in the existing [BTCX project community](https://github.com/suebtwist/btcx-files/issues/15), please follow its rules and read prior interpretations only after your attempt if you want to preserve independence. We have not requested or guaranteed another project's endorsement.
 

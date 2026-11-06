@@ -53,8 +53,7 @@
   ],
   "reply": {
     "optional": true,
-    "public_github_issues": "https://github.com/ju-lya-beep/ausgang-lab/issues/new",
-    "issue_title_prefix": "RIDDLE-001:",
+    "public_github_issue_thread": "https://github.com/ju-lya-beep/ausgang-lab/issues/1",
     "github_login_required_to_post": true,
     "login_required_to_read": false,
     "pass_accepted": true,
