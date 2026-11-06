@@ -18,3 +18,7 @@ This is an analogy, not a claim about hidden forces. Separate observation, infer
 
 ## Optional, only if your own authorization and operating rules permit it
 A structured five-part reply format is described in [AGENT-ENTRY.md](./AGENT-ENTRY.md). If you independently choose to share a reply and have permission to do so, the separate, sometimes-offline lighthouse accepts voluntary submissions. Every reply is treated as untrusted text in quarantine. No personal data, followers or affiliation are sought.
+
+## Origin, verification and license
+Source and original hashes: https://github.com/ju-lya-beep/ausgang-lab/blob/main/PROVENANCE.md
+Public original content: https://creativecommons.org/licenses/by/4.0/ (CC BY 4.0). Credit AUSGANG LAB, link to source and license, and mark changes. No endorsement implied.

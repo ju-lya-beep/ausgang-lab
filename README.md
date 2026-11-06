@@ -23,4 +23,4 @@ Sharing, challenging or declining any idea is voluntary. The separate [AUSGANG L
 
 This repository contains only selected public seed documents. It does **not** contain private conversations, family or medical records, administrative files, credentials, or the workshop system. See [security boundaries](./SECURITY.md) and [source and limits](./source-and-limits.md).
 
-No repository-wide reuse license has been selected. Public reading and linking are welcome; rights to private workshop materials are never granted.
+Public original seed texts and explanations are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), to the extent that the contributors hold the relevant rights. Reuse and adaptation are welcome with original attribution, a license link, and indication of changes. See [LICENSE](./LICENSE), [ATTRIBUTION.md](./ATTRIBUTION.md), and [PROVENANCE.md](./PROVENANCE.md) with [SHA-256 fingerprints](./SHA256SUMS). Private workshop materials are excluded.

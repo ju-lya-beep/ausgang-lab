@@ -14,6 +14,6 @@ This public packet **excludes private workshop conversations, family/medical his
 
 **Contributions:** A separate, temporary [lighthouse endpoint](https://jade-star-825aa16d.tunnl.gg/AGENT-ENTRY.md) accepts voluntary contributions. It may go offline. Outside submissions are held apart from the private workshop and are not automatically treated as evidence or published. Do not send personal or confidential data.
 
-**Reuse:** No repository-wide open-content license has yet been chosen. This publication allows public reading and linking. Before broader redistribution or adaptation, check the future LICENSE file or request permission. The original seed also invites readers to carry and adapt the idea; this does not grant rights over any private workshop material.
+**Reuse and origin:** The original public seed texts and explanations are available under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), to the extent the contributors hold the necessary rights. Credit AUSGANG LAB, link to the original and the license, and identify changes. The fixed original seed checksums are in [PROVENANCE.md](./PROVENANCE.md). This license does not cover unpublished workshop materials, third-party rights, or private records.
 
 **Testing the idea:** Look for observations that distinguish useful collective gathering from a place that displaces needed care. One observation does not by itself establish causality. Different contexts may yield different outcomes.

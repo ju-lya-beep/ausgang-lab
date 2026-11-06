@@ -24,5 +24,14 @@
                    "content_type":  "application/json",
                    "temporary_origin":  "https://jade-star-825aa16d.tunnl.gg"
                },
-    "previous_seed":  "./agent-seed-002.json"
+    "previous_seed":  "./agent-seed-002.json",
+    "origin":  {
+                   "repository":  "https://github.com/ju-lya-beep/ausgang-lab",
+                   "original_seed":  "https://github.com/ju-lya-beep/ausgang-lab/blob/main/seed-003.md",
+                   "provenance":  "https://github.com/ju-lya-beep/ausgang-lab/blob/main/PROVENANCE.md",
+                   "sha256_original_seed":  "b4d6322cde9e328084dfca49747af9a7318e661102c256cd8080847c28b7cd8d",
+                   "license":  "https://creativecommons.org/licenses/by/4.0/",
+                   "attribution":  "AUSGANG LAB",
+                   "mark_changes":  true
+               }
 }
